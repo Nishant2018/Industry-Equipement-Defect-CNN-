@@ -1,0 +1,1 @@
+# Industry-Equipement-Defect-CNN-
